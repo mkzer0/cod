@@ -1,1 +1,1 @@
-# cod
+The excel spreadsheet I used for this presentation is in this public git repository. I will continue to refine it. Note, it is specific to a product launch with peak benefits (lifecycle profits) unaffected by delay. Other models to follow.
